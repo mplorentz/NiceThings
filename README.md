@@ -1,6 +1,6 @@
 # NiceThings
 
-[![Build Status](https://travis-ci.org/roadfire/NiceThings.svg?branch=master)](https://travis-ci.org/roadfire/NiceThings)
+[![Build Status](https://travis-ci.org/mplorentz/NiceThings.svg?branch=master)](https://travis-ci.org/mplorentz/NiceThings)
 
 A collection of extensions and methods to make Swift and iOS even better
 
